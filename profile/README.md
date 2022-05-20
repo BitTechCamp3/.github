@@ -2,25 +2,25 @@
 
 ```
 목차
-0. 프로그램 소개
+0. 모인의 탄생배경
 1. 배포 링크
-2. 설계 링크
+2. 설계 정보
 3. 기능 설명
 ```
-## 1. 프로그램 소개
+## 0. 모인의 탄생배경
 
-###  모인이란?
+###  모인의 탄생배경.
 ```
 여러 코인의 대한 실시간 차트 정보를 보며 해당 코인들에 대한 채팅창과 커뮤니티을 구현하여 재미를 더하기 위해 탄생!!
 ```
 
-# 배포 링크
+## 1. 배포 링크
 <a href="https://bittechcamp3.github.io/frontend/">[모인 체험하기]</a>
 
-# 노션 링크
-<a href="https://flawless-plough-56d.notion.site/Final-3-85fc99bbeca2442eb0192b5abceb111b">[노션 바로가기]</a>
+## 2. 설계 정보
 
-## 2.설계
+### 노션 링크
+<a href="https://flawless-plough-56d.notion.site/Final-3-85fc99bbeca2442eb0192b5abceb111b">[노션 바로가기]</a>
 
 ### DDD 설계 
 ![220505](https://user-images.githubusercontent.com/104835130/169385398-6408d56a-c335-4bcb-8f86-869924856d62.png)
