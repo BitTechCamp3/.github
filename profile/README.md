@@ -19,18 +19,18 @@
 
 ## 2. 설계 정보
 
-### 노션 링크
+### 프로젝트 기획
 <a href="https://flawless-plough-56d.notion.site/Final-3-85fc99bbeca2442eb0192b5abceb111b">[노션 바로가기]</a>
 
-### DDD 설계 
+### DDD 설계도
 ![220505](https://user-images.githubusercontent.com/104835130/169385398-6408d56a-c335-4bcb-8f86-869924856d62.png)
 
-### b) MSA설계
+### MSA 설계도
 ![이미지](https://user-images.githubusercontent.com/104835130/169385576-e256a830-bd72-4518-80a1-495ba482c58c.png)
 
 *** 
 
-###### 팀원
+### 팀원 정보
 <table>
     <tr>
         <td align="center">
@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <td align="center">Front</td>
-        <td align="center">Gateway<br/>User<br/>Domain<br/>Board<br/>Domain<br/>Eureka<br/>Infra</td>
+        <td align="center">Gateway<br/>User Domain<br/>Board Domain<br/>Eureka<br/>Infra</td>
         <td align="center">Chatting Domain<br/>Coin Domain<br/>Kafka</td>
     </tr>
     <tr>
